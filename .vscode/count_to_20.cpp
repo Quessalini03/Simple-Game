@@ -21,6 +21,7 @@
 			16	   
 		Then the computer will try to do the same, decide to enter from 1 to 3 numbers
 			and add them to the flow of the game
+		Try to be the one who reaches 20 so that you can win the game !!!
 		
 		A real game example:
 			Hom many numbers: 1
